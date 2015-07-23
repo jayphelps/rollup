@@ -133,4 +133,4 @@ The duplication (`rollup.rollup`) is intentional. You have to say it like you're
 
 ## License
 
-Not that there's any code here at the time of writing, but this project is released under the MIT license.
+This project is released under the MIT license.
